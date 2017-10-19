@@ -30,8 +30,7 @@ being used at the moment at these destinations. I also wanted something visually
 
 I would probably incorporate images for each of the popular destinations that would be visually engaging,
 create that sense of desire to get away. I was able to utilize Vue.js to create the dynamic data being
-called from the API with a very small amount of code. I used a Bootstrap 4 starter that I use to rapid
-prototype and build the basic layout and responsiveness.
+called from the API with a very small amount of code. I also used a Bootstrap 4 starter that I use often to rapidly prototype a responsive layout such as this.
 
 With more time I would definitely revisit the weather icons, maybe get them animated and refine the text a bit, add conditions to render icons based on weather as well.
 more but all in all I think I'm satisfied with what I came up with in a short amount of time, especially digging
