@@ -3,6 +3,7 @@ OpenWeatherMap API.
 
 The app is also live at the following url:
 
+http://madebydiesel.com/Fly/
 
 ## Download and Installation
 
@@ -10,7 +11,7 @@ Download or clone.
 
 Please make sure Node.js and NPM are installed
 
-"cd" into project directory.
+"cd" into project folder.
 
 run `npm install` 
 
