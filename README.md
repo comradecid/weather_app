@@ -35,4 +35,4 @@ called from the API with a very small amount of code. I also used a Bootstrap 4 
 With more time I would definitely revisit the weather icons, maybe get them animated and refine the text a bit, add conditions to render icons based on weather as well.
 All in all I think I'm satisfied with what I came up with in a short amount of time, especially digging
 a bit deeper into Vue.js, I'm sure there is a better way to approach the Javascript side of things but this library
-seemed to be very light weight and easy to manipulate things quickly, I will definitely consider it more in the future for prototyping and projects. Lastly I would include some sort of search and/or navigation, maybe homepage section to find all the destinations covered by the app.
+seemed to be very light weight and easy to manipulate things quickly. I will definitely consider it more in the future for prototyping and projects. Lastly I would include some sort of search and/or navigation, maybe homepage section to find all the destinations covered by the app.
