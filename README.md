@@ -25,8 +25,8 @@ This will open up a preview of the template in your default browser.
 #### My Thoughts
 I was thinking personally what would be interesting and different that wasn't "just another weather site".
 I made it something I would find useful personally as an avid fly fisherman in the middle of some of
-the best fishing in the world, why not incorporate weather, fishing report, and what sort of fly's are
-being used at the moment. I also wanted something visually attractive to capture your attention, and provide useful information to someone interested in these locations.
+the best fishing in the world. Why not incorporate weather, fishing report, and what sort of fly's are
+being used at the moment at these destinations. I also wanted something visually attractive to capture your attention, and provide useful information to someone interested in fly fishing, something to capture the grandeur of these locations in the Mountain West.
 
 I would probably incorporate images for each of the popular destinations that would be visually engaging,
 create that sense of desire to get away. I was able to utilize Vue.js to create the dynamic data being
@@ -40,4 +40,4 @@ seemed to be very light weight and easy to manipulate things quickly.
 
 Lastly I would probably take more time to fine tune
 the responsive layout and how the weather box is responding, as well as the "5 day forecasts" layout as the screen
-gets smaller. Lastly some sort of search and a path to find all the destinations covered by the app. 
+gets smaller. Lastly some sort of search and a path to find all the destinations covered by the app.
