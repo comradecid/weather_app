@@ -46,9 +46,6 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#flys">The Fly's</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#shop">Shop</a>
-            </li>
           </ul>
         </div>
       </div>
@@ -65,15 +62,15 @@
                 <h2 class="city">{{ City.city.name }}, Idaho</h2>
                 <h2>Today</h2>
                 <i class="wi wi-day-sunny"></i>
-                <p class="detail">{{ this.list[0].weather["0"].main }} Skies</p>
+                <p class="detail">{{ this.list[0].weather["0"].main }}</p>
                 <p class="detail"><span class="large">{{ this.list[0].main.temp.toFixed() }}</span> <span class="small">&#8457</span></p>
                 <ul class="list-inline">
                   <li class="list-inline-item">
                       <div class="w-box">
                           <h3>Friday</h3>
                           <i class="wi wi-day-sunny"></i>
-                          <p>{{ list[1].weather["0"].main }} Skies</p>
-                          <p>{{ list[1].main.temp_min.toFixed() }} H | {{ list[1].main.temp_max.toFixed() }} L</p>
+                          <p>{{ list[1].weather["0"].main }}</p>
+                          <p>{{ list[1].main.temp_max.toFixed() }} H | {{ list[1].main.temp_min.toFixed() }} L</p>
                         </div>
                     <!-- <i class="wi wi-day-sunny"></i> -->
                   </li>
@@ -81,8 +78,8 @@
                       <div class="w-box">
                           <h3>Saturday</h3>
                           <i class="wi wi-day-sunny"></i>
-                          <p>{{ list[2].weather["0"].main }} Skies</p>
-                          <p>{{ list[2].main.temp_min.toFixed() }} H | {{ list[1].main.temp_max.toFixed() }} L</p>
+                          <p>{{ list[2].weather["0"].main }}</p>
+                          <p>{{ list[2].main.temp_max.toFixed() }} H | {{ list[2].main.temp_min.toFixed() }} L</p>
                         </div>
                     <!-- <i class="wi wi-day-sunny"></i> -->
                   </li>
@@ -90,17 +87,17 @@
                       <div class="w-box">
                           <h3>Sunday</h3>
                           <i class="wi wi-day-sunny"></i>
-                          <p>{{ list[3].weather["0"].main }} Skies</p>
-                          <p>{{ list[3].main.temp_min.toFixed() }} H | {{ list[1].main.temp_max.toFixed() }} L</p>
+                          <p>{{ list[3].weather["0"].main }}</p>
+                          <p>{{ list[3].main.temp_max.toFixed() }} H | {{ list[3].main.temp_min.toFixed() }} L</p>
                         </div>
                     <!-- <i class="wi wi-day-sunny"></i> -->
                   </li>
                   <li class="list-inline-item">
                       <div class="w-box">
                           <h3>Monday</h3>
-                          <i class="wi wi-day-sunny"></i>
-                          <p>{{ list[4].weather["0"].main }} Skies</p>
-                          <p>{{ list[4].main.temp_min.toFixed() }} H | {{ list[1].main.temp_max.toFixed() }} L</p>
+                          <i class="wi wi-day-cloudy"></i>
+                          <p>{{ list[4].weather["0"].main }}</p>
+                          <p>{{ list[4].main.temp_max.toFixed() }} H | {{ list[4].main.temp_min.toFixed() }} L</p>
                         </div>
                     <!-- <i class="wi wi-day-sunny"></i> -->
                   </li>
